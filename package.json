@@ -1,0 +1,11 @@
+{
+  "name": "pokedex-js",
+  "version": "1.0.0",
+  "description": "Praticando fundamentos de Javascript para web, HTML, CSS e uso de APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "otthonleao",
+  "license": "MIT"
+}
